@@ -1,7 +1,7 @@
 {
-  "name": "bookclub_api_assignment",
+  "name": "waterco_api_assignment",
   "version": "1.0.0",
-  "description": "book club application api",
+  "description": "waterco application api",
   "main": "index.js",
   "type": "module",
   "scripts": {
